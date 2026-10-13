@@ -1,2 +1,2 @@
-# if-else-basic-examples
-pass and fail program
+# if-else
+basic examples of if-else
